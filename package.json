@@ -20,6 +20,8 @@
     "@angular/fire": "^6.0.0-rc.1",
     "@angular/forms": "^9.1.4",
     "@angular/material": "^9.2.2",
+	"@angular/cli": "9.1.0",
+	"@angular/compiler-cli": "^9.1.4",
     "@angular/platform-browser": "^9.1.4",
     "@angular/platform-browser-dynamic": "^9.1.4",
     "@angular/router": "^9.1.4",
@@ -56,6 +58,6 @@
   },
   "engines": {
     "node": "6.11.0",
-    "npm": "3.10.10"
+    "npm": "3.10.9"
   }
 }
