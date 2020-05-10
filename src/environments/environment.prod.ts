@@ -4,14 +4,14 @@ export const environment = {
   database: 'guest',
   adminKey: 'guest',
   firebase: {
-    apiKey: "",
-    authDomain: "",
-    databaseURL: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: "",
-    appId: "",
-    measurementId: ""
+    apiKey: "AIzaSyDg93OBq4bmTdRbV-4OUX4MACew-r8sKlE",
+    authDomain: "crm-trul1-heroku.firebaseapp.com",
+    databaseURL: "https://crm-trul1-heroku.firebaseio.com",
+    projectId: "crm-trul1-heroku",
+    storageBucket: "crm-trul1-heroku.appspot.com",
+    messagingSenderId: "226069035545",
+    appId: "1:226069035545:web:1ad9feddf360ee622a4888",
+    measurementId: "G-KJVRRLLP77"
   },
   social: {
     fblink: 'https://www.facebook.com/elishconsulting',
